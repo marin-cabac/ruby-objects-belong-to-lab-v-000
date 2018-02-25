@@ -3,5 +3,5 @@ class Song
   def initialize
     @name = name
     @title = title
-  end 
+  end
 end
